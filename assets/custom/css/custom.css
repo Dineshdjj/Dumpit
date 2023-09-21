@@ -45,7 +45,7 @@ body{
     width: 100%;
     height: 100%;
     background-color: rgba(0,0,0,0.9);
-    
+
     -webkit-transition: all 0.5s ease-in-out;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
@@ -171,7 +171,7 @@ body{
 }
 .fables-header { 
     padding: 33px 0;
-    background-image: url(../images/nig.jpg); 
+    background-image: url(../images/nig2.jpg); 
 }
 .fables-after-overlay{
     position: relative; 
@@ -328,7 +328,7 @@ body{
     background-color: rgba(255,255,255,.87);
 }
 .fables-counter-section{
-    background-image: url("../images/counter-background.jpg");  
+    background-image: url("../images/nig2.jpg");  
 }
 .fables-counter {
     position: relative;
@@ -2415,7 +2415,7 @@ body{
     left: -1px;
 }
 .fables-choose-background{
-    background-image: url("../images/choose-us-background.jpg"); 
+    background-image: url("../images/nig2.jpg"); 
 }
 .colored-table .table-badge{
     left: -24px;
