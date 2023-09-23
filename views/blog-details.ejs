@@ -199,7 +199,7 @@
 <script src="assets/custom/js/custom.js"></script> 
     
      <script>
-        const trash1 = document.querySelector('button.del');
+        const trash = document.querySelector('button.del');
         trash.addEventListener('click',(e)=>{
             const endpoint = '/blogs1/'+(trash.dataset.doc).trim();
             fetch(endpoint,{
